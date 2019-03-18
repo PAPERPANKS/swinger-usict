@@ -5,6 +5,8 @@
 
 		<?php 
 		include_once('navigation.php');
+		session_start();
+        $_SESSION['bannerTitle'] = 'Publications';
 		include_once('nav-banner.php'); ?>
 
 
@@ -16,7 +18,8 @@
 		</div>
 		</section>
 
-		<?php include_once('footer.php'); ?>
+		<?php include_once('footer.php');
+		session_destroy(); ?>
 	
 	</body>
 </html>

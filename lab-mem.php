@@ -4,21 +4,21 @@
 	<?php include_once('header.php'); ?>
 
 	<body>
-
         <?php include_once('navigation.php');
+        session_start();
+        $_SESSION['bannerTitle'] = 'Lab Members';
         include_once('nav-banner.php'); ?>
         
-        <section class="portfolio-area " id="portfolio">
+        <section class="portfolio-area">
             <div class="container">               				
-                <div class="filters-content">
+                <div>
                     <div class="row grid">						
-                        <div class="single-portfolio col-sm-4 all">
+                        <div class="single-portfolio col-sm-4">
                             <div class="relative">
                                 <div class="thumb">
                                     <div class="overlay overlay-bg"></div>
                                     <img class="image img-fluid" src="img/p1.jpg" alt="">
-                                </div>
-                                <a href="img/p1.jpg" class="img-pop-up"></a>
+                                </div>                               
                             </div>
                             <div class="p-inner">
                                 <h4>SHALINI GUPTA</h4>
@@ -26,13 +26,12 @@
                             </div>
                         </div>
                                                                                                                                                         
-                        <div class="single-portfolio col-sm-4 all">
+                        <div class="single-portfolio col-sm-4">
                             <div class="relative">
                                 <div class="thumb">
                                     <div class="overlay overlay-bg"></div>
                                     <img class="image img-fluid" src="img/p1.jpg" alt="">
-                                </div>
-                                <a href="img/p1.jpg" class="img-pop-up"></a>
+                                </div>                               
                             </div>
                             <div class="p-inner">
                                 <h4>PRERNA SHARMA</h4>
@@ -40,13 +39,12 @@
                             </div>
                         </div>
 
-                        <div class="single-portfolio col-sm-4 all">
+                        <div class="single-portfolio col-sm-4">
                             <div class="relative">
                                 <div class="thumb">
                                     <div class="overlay overlay-bg"></div>
                                     <img class="image img-fluid" src="img/p1.jpg" alt="">
                                 </div>
-                                <a href="img/p1.jpg" class="img-pop-up"></a>
                             </div>
                             <div class="p-inner">
                                 <h4>ARUN KUMAR</h4>
@@ -54,13 +52,12 @@
                             </div>
                         </div>
 
-                        <div class="single-portfolio col-sm-4 all">
+                        <div class="single-portfolio col-sm-4">
                             <div class="relative">
                                 <div class="thumb">
                                     <div class="overlay overlay-bg"></div>
                                     <img class="image img-fluid" src="img/p1.jpg" alt="">
                                 </div>
-                                <a href="img/p1.jpg" class="img-pop-up"></a>
                             </div>
                             <div class="p-inner">
                                 <h4>PRITI BHARDWAJ</h4>
@@ -68,13 +65,12 @@
                             </div>
                         </div>
 
-                        <div class="single-portfolio col-sm-4 all">
+                        <div class="single-portfolio col-sm-4">
                             <div class="relative">
                                 <div class="thumb">
                                     <div class="overlay overlay-bg"></div>
                                     <img class="image img-fluid" src="img/p1.jpg" alt="">
                                 </div>
-                                <a href="img/p1.jpg" class="img-pop-up"></a>
                             </div>
                             <div class="p-inner">
                                 <h4>PRAGATI DHAIYA</h4>
@@ -82,13 +78,12 @@
                             </div>
                         </div>
 
-                        <div class="single-portfolio col-sm-4 all">
+                        <div class="single-portfolio col-sm-4">
                             <div class="relative">
                                 <div class="thumb">
                                     <div class="overlay overlay-bg"></div>
                                     <img class="image img-fluid" src="img/p1.jpg" alt="">
                                 </div>
-                                <a href="img/p1.jpg" class="img-pop-up"></a>
                             </div>
                             <div class="p-inner">
                                 <h4>RAHUL DIXIT</h4>
@@ -96,13 +91,12 @@
                             </div>
                         </div>
 
-                        <div class="single-portfolio col-sm-4 all">
+                        <div class="single-portfolio col-sm-4">
                             <div class="relative">
                                 <div class="thumb">
                                     <div class="overlay overlay-bg"></div>
                                     <img class="image img-fluid" src="img/p1.jpg" alt="">
                                 </div>
-                                <a href="img/p1.jpg" class="img-pop-up"></a>
                             </div>
                             <div class="p-inner">
                                 <h4>MAHMOOD DHARI ALI</h4>
@@ -110,13 +104,12 @@
                             </div>
                         </div>
 
-                        <div class="single-portfolio col-sm-4 all">
+                        <div class="single-portfolio col-sm-4">
                             <div class="relative">
                                 <div class="thumb">
                                     <div class="overlay overlay-bg"></div>
                                     <img class="image img-fluid" src="img/p1.jpg" alt="">
                                 </div>
-                                <a href="img/p1.jpg" class="img-pop-up"></a>
                             </div>
                             <div class="p-inner">
                                 <h4>VIBHA BHARDWAJ</h4>
@@ -124,13 +117,12 @@
                             </div>
                         </div>
 
-                        <div class="single-portfolio col-sm-4 all">
+                        <div class="single-portfolio col-sm-4">
                             <div class="relative">
                                 <div class="thumb">
                                     <div class="overlay overlay-bg"></div>
                                     <img class="image img-fluid" src="img/p1.jpg" alt="">
                                 </div>
-                                <a href="img/p1.jpg" class="img-pop-up"></a>
                             </div>
                             <div class="p-inner">
                                 <h4>AFREEN FATIMAH</h4>
@@ -138,13 +130,12 @@
                             </div>
                         </div>
 
-                        <div class="single-portfolio col-sm-4 all">
+                        <div class="single-portfolio col-sm-4">
                             <div class="relative">
                                 <div class="thumb">
                                     <div class="overlay overlay-bg"></div>
                                     <img class="image img-fluid" src="img/p1.jpg" alt="">
                                 </div>
-                                <a href="img/p1.jpg" class="img-pop-up"></a>
                             </div>
                             <div class="p-inner">
                                 <h4>PRACHI GARG</h4>
@@ -152,13 +143,12 @@
                             </div>
                         </div>
 
-                        <div class="single-portfolio col-sm-4 all">
+                        <div class="single-portfolio col-sm-4">
                             <div class="relative">
                                 <div class="thumb">
                                     <div class="overlay overlay-bg"></div>
                                     <img class="image img-fluid" src="img/p1.jpg" alt="">
                                 </div>
-                                <a href="img/p1.jpg" class="img-pop-up"></a>
                             </div>
                             <div class="p-inner">
                                 <h4>RIYA BHATIA</h4>
@@ -169,7 +159,7 @@
                 </div>
             </div>
         </section>
-
-        <?php include_once('footer.php'); ?>
-    </body>
+        <?php include_once('footer.php');
+        session_destroy();?>
+    </body>  
 </html>

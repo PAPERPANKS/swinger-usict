@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-<html lang="zxx" class="no-js">
+<html lang="en-us" class="no-js">
 	<?php include_once('header.php') ?>
 
 	<body>
 		<?php include_once('navigation.php');
+		session_start();
+        $_SESSION['bannerTitle'] = 'Awards';
 		include_once('nav-banner.php'); ?>
 
 		<section class="faq-area pb-120" style="margin-top: 40px;">
@@ -46,7 +48,8 @@
 			</div>
 		</section>
 
-		<?php include_once('footer.php'); ?>
+		<?php include_once('footer.php');
+		session_destroy(); ?>
 
 	</body>
 </html>

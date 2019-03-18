@@ -3,7 +3,7 @@
         <div class="row align-items-center justify-content-between d-flex">
             <div id="logo">
                 <a href="index.php">
-                    <img src="#" alt="Rahul Johari" title="Rahul Johari" />
+                    <img src="img/logo.png" alt="Rahul Johari" title="Rahul Johari" />
                 </a>
             </div>
             <nav id="nav-menu-container">

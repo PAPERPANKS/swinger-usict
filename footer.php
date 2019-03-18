@@ -1,7 +1,7 @@
 <footer class="footer-area section-gap">
 <div class="container">
     <div class="row">
-        <div class="col-lg-12 col-md-12 col-sm-12">
+        <div class="col-lg-6 col-sm-12">
             <div class="single-footer-widget">
                 <h4>SWINGER - LAB</h4>
                 <p>RJo's : <b>S</b>ecurity, <b>W</b>ireless, <b>I</b>oT <b></b>etwork <b>G</b>roup of <b>E</b>ngineering and <b>R</b>esearch Lab</p>
@@ -11,26 +11,23 @@
                 </p>
             </div>
         </div>      
-        <!-- <div class="col-lg-2 col-md-6 col-sm-6 social-widget">
+        <div class="col-lg-6 col-sm-12 social-widget">
             <div class="single-footer-widget">
                 <h4>Follow Me</h4>
-                <p>Let us be social</p>
-                <div class="footer-social d-flex align-items-center">
-                    <a href="#">
-                        <i class="fa fa-facebook"></i>
+                <div class="footer-social">
+                    <a href="https://scholar.google.co.in/citations?user=A4eUrCUAAAAJ&hl=en">
+                        Google Scholar | 
                     </a>
-                    <a href="#">
-                        <i class="fa fa-twitter"></i>
+                    <a href="https://en.wikipedia.org/wiki/User:Rahuljohari">
+                        Wikipedia | 
                     </a>
-                    <a href="#">
-                        <i class="fa fa-dribbble"></i>
+                    <a href="https://www.researchgate.net/profile/Rahul_Johari2">
+                        Research Gate
                     </a>
-                    <a href="#">
-                        <i class="fa fa-behance"></i>
-                    </a>
+                    
                 </div>
             </div>
-        </div> -->
+        </div>
     </div>
 </div>
 </footer>

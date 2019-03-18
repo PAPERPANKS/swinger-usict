@@ -15,7 +15,7 @@
                 <h1 class="text-white">
                 <?php putBannerTitle(); ?>
                 </h1>
-                <p class="text-white link-nav"><a href="index.php">Home </a> <span class="lnr lnr-arrow-right"></span>  <?php putBannerTitle(); ?></p>
+                <p class="text-white link-nav"><a href="index.php">Home </a> <span class="fa fa-angle-right"></span>  <?php putBannerTitle(); ?></p>
             </div>
         </div>
     </div>

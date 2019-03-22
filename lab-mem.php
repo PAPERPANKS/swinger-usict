@@ -8,153 +8,53 @@
         session_start();
         $_SESSION['bannerTitle'] = 'Lab Members';
         include_once('nav-banner.php'); ?>
+
+        <?php
+            /*
+            $profile_det = [
+                ['image_src','student_name','roll_no']
+            ]
+            */
+            $profile_det = [ 
+                ['P1.jpg','SHALINI GUPTA','00316409609'],
+                ['PRERNA.jpg','PRERNA SHARMA','01016405309'],
+                ['ARUN.jpg','ARUN KUMAR','02216405310'],
+                ['P1.jpg','PRITI BHARDWAJ','01516404811'],
+                ['PRAGATI.jpg','PRAGATI DHAIYA','00316414811'],
+                ['RAHUL.jpg','RAHUL DIXIT','00816405311'],
+                ['MAHMOOD.jpg','MAHMOOD DHARI ALI','02616405312'],
+                ['P1.jpg','VIBHA BHARDWAJ','01216404813'],
+                ['P1.jpg','AFREEN FATIMAH','01516405314'],
+                ['PRACHI.jpg','PRACHI GARG','###'],
+                ['P1.jpg','RIYA BHATIA','###'],
+                ['PANKAJ.jpg','PANKAJ GAUTAM','01716403215'],
+                ['P1.jpg','PRANSHU MITTAL','02116403215'],
+                ['SAPNA.jpg','SAPNA CHAUDHARY','###']
+            ];
+        ?>
         
         <section class="portfolio-area">
             <div class="container">               				
                 <div>
-                    <div class="row grid">						
+                    <div class="row grid">
+                    <?php
+                        foreach ($profile_det as $arr) {                                              
+                    ?>
                         <div class="single-portfolio col-sm-4">
                             <div class="relative">
                                 <div class="thumb">
                                     <div class="overlay overlay-bg"></div>
-                                    <img class="image img-fluid" src="img/p1.jpg" alt="">
-                                </div>                               
-                            </div>
-                            <div class="p-inner">
-                                <h4>SHALINI GUPTA</h4>
-                                <div class="cat">00316409609</div>
-                            </div>
-                        </div>
-                                                                                                                                                        
-                        <div class="single-portfolio col-sm-4">
-                            <div class="relative">
-                                <div class="thumb">
-                                    <div class="overlay overlay-bg"></div>
-                                    <img class="image img-fluid" src="img/p1.jpg" alt="">
-                                </div>                               
-                            </div>
-                            <div class="p-inner">
-                                <h4>PRERNA SHARMA</h4>
-                                <div class="cat">01016405309</div>
-                            </div>
-                        </div>
-
-                        <div class="single-portfolio col-sm-4">
-                            <div class="relative">
-                                <div class="thumb">
-                                    <div class="overlay overlay-bg"></div>
-                                    <img class="image img-fluid" src="img/p1.jpg" alt="">
+                                    <img class="image img-fluid" src="img/lab-mem/<?php echo $arr[0]; ?>" alt="">
                                 </div>
                             </div>
                             <div class="p-inner">
-                                <h4>ARUN KUMAR</h4>
-                                <div class="cat">02216405310</div>
+                                <h4><?php echo $arr[1]; ?></h4>
+                                <div class="cat"><?php echo $arr[2]; ?></div>
                             </div>
                         </div>
-
-                        <div class="single-portfolio col-sm-4">
-                            <div class="relative">
-                                <div class="thumb">
-                                    <div class="overlay overlay-bg"></div>
-                                    <img class="image img-fluid" src="img/p1.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="p-inner">
-                                <h4>PRITI BHARDWAJ</h4>
-                                <div class="cat">01516404811</div>
-                            </div>
-                        </div>
-
-                        <div class="single-portfolio col-sm-4">
-                            <div class="relative">
-                                <div class="thumb">
-                                    <div class="overlay overlay-bg"></div>
-                                    <img class="image img-fluid" src="img/p1.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="p-inner">
-                                <h4>PRAGATI DHAIYA</h4>
-                                <div class="cat">00316414811 </div>
-                            </div>
-                        </div>
-
-                        <div class="single-portfolio col-sm-4">
-                            <div class="relative">
-                                <div class="thumb">
-                                    <div class="overlay overlay-bg"></div>
-                                    <img class="image img-fluid" src="img/p1.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="p-inner">
-                                <h4>RAHUL DIXIT</h4>
-                                <div class="cat">00816405311 </div>
-                            </div>
-                        </div>
-
-                        <div class="single-portfolio col-sm-4">
-                            <div class="relative">
-                                <div class="thumb">
-                                    <div class="overlay overlay-bg"></div>
-                                    <img class="image img-fluid" src="img/p1.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="p-inner">
-                                <h4>MAHMOOD DHARI ALI</h4>
-                                <div class="cat">02616405312 </div>
-                            </div>
-                        </div>
-
-                        <div class="single-portfolio col-sm-4">
-                            <div class="relative">
-                                <div class="thumb">
-                                    <div class="overlay overlay-bg"></div>
-                                    <img class="image img-fluid" src="img/p1.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="p-inner">
-                                <h4>VIBHA BHARDWAJ</h4>
-                                <div class="cat">01216404813 </div>
-                            </div>
-                        </div>
-
-                        <div class="single-portfolio col-sm-4">
-                            <div class="relative">
-                                <div class="thumb">
-                                    <div class="overlay overlay-bg"></div>
-                                    <img class="image img-fluid" src="img/p1.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="p-inner">
-                                <h4>AFREEN FATIMAH</h4>
-                                <div class="cat">01516405314 </div>
-                            </div>
-                        </div>
-
-                        <div class="single-portfolio col-sm-4">
-                            <div class="relative">
-                                <div class="thumb">
-                                    <div class="overlay overlay-bg"></div>
-                                    <img class="image img-fluid" src="img/p1.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="p-inner">
-                                <h4>PRACHI GARG</h4>
-                                <div class="cat">01016405309 </div>
-                            </div>
-                        </div>
-
-                        <div class="single-portfolio col-sm-4">
-                            <div class="relative">
-                                <div class="thumb">
-                                    <div class="overlay overlay-bg"></div>
-                                    <img class="image img-fluid" src="img/p1.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="p-inner">
-                                <h4>RIYA BHATIA</h4>
-                                <div class="cat">01016405309 </div>
-                            </div>
-                        </div>
+                    <?php
+                        }
+                    ?>
                     </div>
                 </div>
             </div>

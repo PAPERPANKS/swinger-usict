@@ -1533,7 +1533,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .single-portfolio:hover .thumb .overlay-bg {
-    opacity: .85
+    opacity: 0.75;
 }
 .single-portfolio {
     padding: 15px;
@@ -1543,9 +1543,13 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding-top: 15px;
 }
 
+.single-portfolio .img-fluid {
+    border-radius: 5% !important;
+}
+
 .thumb .overlay-bg {
     opacity: 0;
-    border-radius: 5px;
+    border-radius: 5%;
     -webkit-transition: all .3s ease 0s;
     -moz-transition: all .3s ease 0s;
     -o-transition: all .3s ease 0s;
@@ -1619,7 +1623,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin-bottom: 5px
 }
 
-.single-testimonial:hover h4 {
+.single-testimonial:hover h4, .single-portfolio:hover h4, .single-portfolio:hover .p-inner {
     color: #8490ff;
     cursor: pointer
 }

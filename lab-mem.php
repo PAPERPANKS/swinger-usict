@@ -27,9 +27,9 @@
                 ['P1.jpg','AFREEN FATIMAH','01516405314'],
                 ['PRACHI.jpg','PRACHI GARG','###'],
                 ['P1.jpg','RIYA BHATIA','###'],
+                ['SAPNA.jpg','SAPNA CHAUDHARY','###'],
                 ['PANKAJ.jpg','PANKAJ GAUTAM','01716403215'],
-                ['P1.jpg','PRANSHU MITTAL','02116403215'],
-                ['SAPNA.jpg','SAPNA CHAUDHARY','###']
+                ['PRANSHU.jpg','PRANSHU MITTAL','02116403215'],              
             ];
         ?>
         

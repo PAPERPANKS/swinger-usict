@@ -15,14 +15,20 @@
             <div class="single-footer-widget">
                 <h4>Follow Me</h4>
                 <div class="footer-social">
+                    <a href="http://ggsipu.academia.edu/RahulJohari">
+                        Academia.edu |
+                    </a>
                     <a href="https://scholar.google.co.in/citations?user=A4eUrCUAAAAJ&hl=en">
                         Google Scholar | 
+                    </a>    
+                    <a href="https://in.linkedin.com/in/rahul-johari-695b6016">
+                        Linkedin |
+                    </a>               
+                    <a href="https://www.researchgate.net/profile/Rahul_Johari2">
+                        Research Gate |
                     </a>
                     <a href="https://en.wikipedia.org/wiki/User:Rahuljohari">
-                        Wikipedia | 
-                    </a>
-                    <a href="https://www.researchgate.net/profile/Rahul_Johari2">
-                        Research Gate
+                        Wikipedia 
                     </a>
                     
                 </div>

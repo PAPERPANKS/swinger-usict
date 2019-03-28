@@ -2126,43 +2126,6 @@ dl.accordion.time-line:before {
     padding: 0 4px
 }
 
-.single-footer-widget ::-moz-selection {
-    background-color: #191919!important;
-    color: #777
-}
-
-.single-footer-widget ::selection {
-    background-color: #191919!important;
-    color: #777
-}
-
-.single-footer-widget ::-webkit-input-placeholder {
-    color: #777;
-    font-weight: 300
-}
-
-.single-footer-widget :-moz-placeholder {
-    color: #777;
-    opacity: 1;
-    font-weight: 300
-}
-
-.single-footer-widget ::-moz-placeholder {
-    color: #777;
-    opacity: 1;
-    font-weight: 300
-}
-
-.single-footer-widget :-ms-input-placeholder {
-    color: #777;
-    font-weight: 300
-}
-
-.single-footer-widget ::-ms-input-placeholder {
-    color: #777;
-    font-weight: 300
-}
-
 @media(max-width: 991.98px) {
     .single-footer-widget {
         margin-bottom:30px

@@ -1278,7 +1278,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area {
-    background: #f9f9ff
+    /* background: #f9f9ff */
+    background: url('../img/background.png') center no-repeat;
 }
 
 .banner-area .fullscreen {
@@ -1305,6 +1306,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .banner-left .primary-btn:hover {
     box-shadow: 0 20px 20px 0 rgba(132,144,255,.3)
+}
+
+.banner-left h2 {
+    color: #fff
+}
+.banner-t, .banner-sub-t {
+    color: #fff;
+    background-color: rgba(4,9,30, 0.4);
 }
 
 @media(max-width: 767px) {

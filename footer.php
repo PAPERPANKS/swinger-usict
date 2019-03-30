@@ -16,17 +16,17 @@
                 <h4>Follow Me</h4>
                 <div class="footer-social">
                     <a href="http://ggsipu.academia.edu/RahulJohari">
-                        Academia.edu |
-                    </a>
+                        Academia.edu 
+                    </a><span>|</span>
                     <a href="https://scholar.google.co.in/citations?user=A4eUrCUAAAAJ&hl=en">
-                        Google Scholar | 
-                    </a>    
+                        Google Scholar  
+                    </a><span>|</span>    
                     <a href="https://in.linkedin.com/in/rahul-johari-695b6016">
-                        Linkedin |
-                    </a>               
+                        Linkedin 
+                    </a><span>|</span>               
                     <a href="https://www.researchgate.net/profile/Rahul_Johari2">
-                        Research Gate |
-                    </a>
+                        Research Gate 
+                    </a><span>|</span>
                     <a href="https://en.wikipedia.org/wiki/User:Rahuljohari">
                         Wikipedia 
                     </a>

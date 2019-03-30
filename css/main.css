@@ -1279,7 +1279,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .banner-area {
     /* background: #f9f9ff */
-    background: url('../img/background.png') center no-repeat;
+    background: url('../img/background.webp') center no-repeat;
 }
 
 .banner-area .fullscreen {
@@ -1944,7 +1944,6 @@ dl.accordion.time-line:before {
 }
 
 .blog-home-banner {
-    background: url(../img/blog/blog-home-banner.jpg) bottom;
     background-size: cover;
     padding: 130px 0
 }

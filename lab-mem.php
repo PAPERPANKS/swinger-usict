@@ -16,20 +16,20 @@
             ]
             */
             $profile_det = [ 
-                ['P1.jpg','SHALINI GUPTA','00316409609'],
-                ['PRERNA.jpg','PRERNA SHARMA','01016405309'],
-                ['ARUN.jpg','ARUN KUMAR','02216405310'],
-                ['P1.jpg','PRITI BHARDWAJ','01516404811'],
-                ['PRAGATI.jpg','PRAGATI DHAIYA','00316414811'],
-                ['RAHUL.jpg','RAHUL DIXIT','00816405311'],
-                ['MAHMOOD.jpg','MAHMOOD DHARI ALI','02616405312'],
-                ['P1.jpg','VIBHA BHARDWAJ','01216404813'],
-                ['P1.jpg','AFREEN FATIMAH','01516405314'],
-                ['PRACHI.jpg','PRACHI GARG','###'],
-                ['P1.jpg','RIYA BHATIA','###'],
-                ['SAPNA.jpg','SAPNA CHAUDHARY','###'],
-                ['PANKAJ.jpg','PANKAJ GAUTAM','01716403215'],
-                ['PRANSHU.jpg','PRANSHU MITTAL','02116403215'],              
+                ['P1.webp','SHALINI GUPTA','00316409609'],
+                ['PRERNA.webp','PRERNA SHARMA','01016405309'],
+                ['ARUN.webp','ARUN KUMAR','02216405310'],
+                ['P1.webp','PRITI BHARDWAJ','01516404811'],
+                ['PRAGATI.webp','PRAGATI DHAIYA','00316414811'],
+                ['RAHUL.webp','RAHUL DIXIT','00816405311'],
+                ['MAHMOOD.webp','MAHMOOD DHARI ALI','02616405312'],
+                ['P1.webp','VIBHA BHARDWAJ','01216404813'],
+                ['P1.webp','AFREEN FATIMAH','01516405314'],
+                ['PRACHI.webp','PRACHI GARG','60116410514'],
+                ['RIYA.webp','RIYA BHATIA','41316401515'],
+                ['SAPNA.webp','SAPNA CHAUDHARY','00516405318'],
+                ['PANKAJ.webp','PANKAJ GAUTAM','01716403215'],
+                ['PRANSHU.webp','PRANSHU MITTAL','02116403215'],              
             ];
         ?>
         

@@ -21,7 +21,7 @@
 					</ul>
 				</div>
 				<div class="col-lg-12 patent-img">
-					<img class="img-fluid" src="./img/patent.jpg" alt="Patent">
+					<img class="img-fluid" src="./img/patent.webp" alt="Patent">
 				</div>
 
 			</div>

@@ -19,7 +19,7 @@
 						Network Sciences and Network Security.</h4>
 					</div>
 					<div class="col-lg-4 col-md-6 banner-img">
-						<img class="img-responsive" src="img/banner.png" alt="DTN">
+						<img class="img-responsive" src="img/banner.webp" alt="DTN">
 					</div>
 				</div>
 			</div>
@@ -43,7 +43,7 @@
 
 					<div class="single-recent-blog col-lg-4 col-md-4">
 						<div class="thumb">
-							<img class="f-img img-fluid mx-auto" src="img/ship.jpg" alt="">
+							<img class="f-img img-fluid mx-auto" src="img/ship.webp" alt="">
 						</div>																		
 						<a href="#">
 							<h4>SHIP</h4>
@@ -53,7 +53,7 @@
 
 					<div class="single-recent-blog col-lg-4 col-md-4">
 						<div class="thumb">
-							<img class="f-img img-fluid mx-auto" src="img/dtn-ipn.png" alt="">
+							<img class="f-img img-fluid mx-auto" src="img/dtn-ipn.webp" alt="">
 						</div>																		
 						<a href="#">
 							<h4>DTN-IPN</h4>

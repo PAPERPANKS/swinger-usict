@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-us" class="no-js">
-	<?php include_once('header.php') ?>
+	<?php session_start();
+        $_SESSION['title'] = 'Awards';
+        include_once('header.php'); ?>
 
 	<body>
 		<?php include_once('navigation.php');
-		session_start();
-        $_SESSION['bannerTitle'] = 'Awards';
 		include_once('nav-banner.php'); ?>
 
 		<section class="faq-area pb-120" style="margin-top: 40px;">

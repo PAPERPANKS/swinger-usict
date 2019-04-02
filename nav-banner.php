@@ -1,7 +1,7 @@
 <?php 
     function putBannerTitle(){
-        if( isset( $_SESSION['bannerTitle'] ) ) {
-            echo $_SESSION['bannerTitle'];
+        if( isset( $_SESSION['title'] ) ) {
+            echo $_SESSION['title'];
         }else {
             echo "???";
         }

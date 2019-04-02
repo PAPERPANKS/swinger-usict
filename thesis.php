@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="zxx" class="no-js">
-	<?php include_once('header.php'); ?>
+<html lang="en-us" class="no-js">
+	<?php session_start();
+        $_SESSION['title'] = 'Thesis';
+        include_once('header.php'); ?>
 	<body>
 
 		<?php 
         include_once('navigation.php');
-        session_start();
-        $_SESSION['bannerTitle'] = 'Thesis';
 		include_once('nav-banner.php'); ?>
 
 

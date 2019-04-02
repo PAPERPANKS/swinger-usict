@@ -13,7 +13,7 @@
 					
 					<div class="col-lg-12 pt-40">
 						<ul class="patent-list">
-							<li><span class="colored">PATENT NAME :<span> Defence Deployment System : An Application of Delay Tolerant Network</li>
+							<li><span class="colored">PATENT NAME :<span> Defence Deployment System : Application of the Delay Tolerant Network</li>
 							<li><span class="colored">INVENTOR(S) :<span> Afreen Fatimah, Rahul Johari</li>
 							<li><span class="colored">DATE OF FILING :<span> 2017/1/13</li>
 							<li><span class="colored">PATENT OFFICE :<span> INDIA</li>

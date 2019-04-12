@@ -11,8 +11,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="shortcut icon" href="img/fav.png">
     <meta name="author" content="paperpanks">
-    <meta name="description" content="RJo's : Security, Wireless, IoT Network Group of Engineering and Research Lab">
-    <meta name="keywords" content="Swinger, Rahul Johari, DTN, SHIP, USIC&T, GGSIPU">
+    <meta name="description" content="Rahul Johari's : Security, Wireless, IoT Network Group of Engineering and Research Lab">
+    <meta name="keywords" content="Swinger Lab, Rahul Johari, DTN, SHIP, USIC&T, GGSIPU">
     <meta charset="UTF-8">
     <title>
         <?php  putTitle(); ?>

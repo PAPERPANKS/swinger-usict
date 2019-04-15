@@ -24,7 +24,7 @@
                 ['RAHUL.webp','RAHUL DIXIT','00816405311'],
                 ['MAHMOOD.webp','MAHMOOD DHARI ALI','02616405312'],
                 ['P1.webp','VIBHA BHARDWAJ','01216404813'],
-                ['P1.webp','AFREEN FATIMAH','01516405314'],
+                ['AFREEN.webp','AFREEN FATIMAH','01516405314'],
                 ['PRACHI.webp','PRACHI GARG','60116410514'],
                 ['RIYA.webp','RIYA BHATIA','41316401515'],
                 ['SAPNA.webp','SAPNA CHAUDHARY','00516405318'],
@@ -44,7 +44,7 @@
                             <div class="relative">
                                 <div class="thumb">
                                     <div class="overlay overlay-bg"></div>
-                                    <img class="image img-fluid" src="img/lab-mem/<?php echo $arr[0]; ?>" alt="">
+                                    <img class="image img-fluid" src="img/lab-mem/<?php echo $arr[0]; ?>" alt="<?php echo $arr[1]; ?>">
                                 </div>
                             </div>
                             <div class="p-inner">

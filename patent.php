@@ -36,7 +36,7 @@
 						<div class="table-responsive" style="margin-top:20px;">
 							<table class="table table-hover">
 								<thead>
-									<tr style="color:#04091e;">
+									<tr style="color:#04091e; font-weight:normal;">
 										<th scope="col">S. No</th>
 										<th scope="col">Patent Title</th>
 										<th scope="col">Name of Applicant(s)</th>

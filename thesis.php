@@ -44,7 +44,7 @@
 						<div class="table-responsive" style="margin-top:20px;">
 							<table class="table table-hover">
 								<thead>
-									<tr style="color:#04091e; font-weight:normal;">
+									<tr>
 										<th scope="col">S. No</th>
 										<th scope="col">Year</th>
 										<th scope="col">Programme</th>
@@ -57,7 +57,7 @@
 									<?php
 										$i = 1;
 										foreach ($thesis as $thesis) { ?>
-											<tr style="color:#8490ff;">
+											<tr>
 												<th scope="row"><?php echo $i++; ?></th>
 												<td><?php echo $thesis["year"] ?></td>
 												<td><?php echo $thesis["programme"] ?></td>

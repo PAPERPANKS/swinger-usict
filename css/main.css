@@ -2057,6 +2057,9 @@ dl.accordion.time-line:before {
     background-color: #04091e
 }
 
+.single-footer-widget {
+    color: #f8f8f8;
+}
 .single-footer-widget h4 {
     color: #fff!important;
     margin-bottom: 25px;
@@ -2141,7 +2144,7 @@ dl.accordion.time-line:before {
 .single-footer-widget .footer-social a {
     display: inline-block;
     text-align: center;
-    color: #fff;
+    color: #f8f8f8;
     padding-right: 5px;
     -webkit-transition: all .3s ease 0s;
     -moz-transition: all .3s ease 0s;
@@ -2150,7 +2153,7 @@ dl.accordion.time-line:before {
 }
 
 .single-footer-widget .footer-social a:hover  {
-    color: #8490ff
+    color: #ff005a;
 }
 
 .footer-bottom {
@@ -2173,7 +2176,7 @@ dl.accordion.time-line:before {
 }
 
 .footer-text a {
-    color: #8490ff
+    color: #ff005a;
 }
 
 .banner-area .colored {
@@ -2284,7 +2287,6 @@ margin: 0;
 font-family: 'Montserrat', sans-serif;
 display: inline-block;
 text-transform: uppercase;
-/* color: #ff005a; */
 color: #ff005a;
 text-decoration: none;
 border: 2px solid;
@@ -2311,4 +2313,13 @@ color: #8400ff;
     font-size: 182px;
 }
 }
-  
+
+.table-hover tr {
+    font-weight: normal;
+}
+.table-hover thead tr {
+    color:#04091e;
+}
+.table-hover tbody tr {
+    color:#8490ff;
+}

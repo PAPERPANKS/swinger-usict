@@ -36,7 +36,7 @@
 						<div class="table-responsive" style="margin-top:20px;">
 							<table class="table table-hover">
 								<thead>
-									<tr style="color:#04091e; font-weight:normal;">
+									<tr>
 										<th scope="col">S. No</th>
 										<th scope="col">Patent Title</th>
 										<th scope="col">Name of Applicant(s)</th>
@@ -50,7 +50,7 @@
 									<?php
 										$i = 1;
 										foreach ($patents as $patent) { ?>
-											<tr style="color:#8490ff;">
+											<tr>
 												<th scope="row"><?php echo $i++; ?></th>
 												<td><?php echo $patent["title"] ?></td>
 												<td><?php echo $patent["names"] ?></td>

@@ -7,6 +7,8 @@
 		
 		<?php include_once('navigation.php'); ?>
 
+		<div id="particles-js"></div>
+	
 		<section class="banner-area">
 			<div class="container">
 				<div class="row fullscreen align-items-center justify-content-between">
@@ -62,8 +64,8 @@
 					</div>																																														
 				</div>
 			</div>
-		</section>
-																																																			
+		</section>	
+
 		<?php include_once('footer.php'); ?>
 												
 	</body>

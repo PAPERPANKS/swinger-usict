@@ -38,4 +38,6 @@
 </div>
 </footer>
 <script src="js/jquery-2.2.4.min.js" ></script>
-<script src="js/main.js" ></script>		
+<script src="js/main.js"></script>
+<script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<script src="js/particles.js"></script>

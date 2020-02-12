@@ -29,7 +29,9 @@
                 ['RIYA.webp','RIYA BHATIA','41316401515'],
                 ['SAPNA.webp','SAPNA CHAUDHARY','00516405318'],
                 ['PANKAJ.webp','PANKAJ GAUTAM','01716403215'],
-                ['PRANSHU.webp','PRANSHU MITTAL','02116403215'],              
+                ['PRANSHU.webp','PRANSHU MITTAL','02116403215'],
+                ['anmol_goel.webp','ANMOL GOEL','00916404518'],
+                ['medha_chugh.webp','MEDHA CHUGH','02916404518'],              
             ];
         ?>
         

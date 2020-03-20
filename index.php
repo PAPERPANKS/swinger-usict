@@ -13,7 +13,7 @@
 			<div class="container">
 				<div class="row fullscreen align-items-center justify-content-between">
 					<div class="col-lg-8 col-md-6 banner-left">
-						<h1 class="banner-t">SWINGERs</h1>
+						<h1 class="banner-t">SWINGER</h1>
 						<h2>Rahul Johari's : <span class="colored">S</span>ecurity, <span class="colored">W</span>ireless, <span class="colored">I</span>oT <span class="colored">N</span>etwork <span class="colored">G</span>roup of <span class="colored">E</span>ngineering and <span class="colored">R</span>esearch Lab</h2>
 						<h4 class="banner-sub-t">The Soul of SWINGER lab are it's Lab Members,who have worked tirelessly to make it reality.
 						My heart goes out to them....</h4>

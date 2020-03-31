@@ -5,9 +5,9 @@
             <div class="single-footer-widget">
                 <h4>SWINGER - LAB</h4>
                 <p>Rahul Johari's : <b>S</b>ecurity, <b>W</b>ireless, <b>I</b>oT <b></b>etwork <b>G</b>roup of <b>E</b>ngineering and <b>R</b>esearch Lab</p>
-                <p class="footer-text">Copyright &copy; 2019 All rights reserved<br/>This site is made with 
+                <p class="footer-text">Copyright &copy; 2020 All rights reserved<br/>This site is made with 
                     <i class="fa fa-heart-o" aria-hidden="true"></i> by 
-                    <a href="index.php">Rahul Johari</a>
+                    <a href="#">SDC, USICT</a>
                 </p>
             </div>
         </div>      

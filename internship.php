@@ -8,9 +8,9 @@
 </head>
 <body>
     <script>
-        window.load(()=>{
+        // window.load(()=>{
             window.href.location="https://sites.google.com/view/swingerusict/internship_1";
-        })
+        // })
     </script>
 </body>
 </html>

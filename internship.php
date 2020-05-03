@@ -15,7 +15,7 @@
     <?php 
   
 // Redirect browser 
-// header("Location: https://sites.google.com/view/swingerusict/internship_1"); 
+header("Location: https://sites.google.com/view/swingerusict/internship_1"); 
   
 exit; 
 ?> 

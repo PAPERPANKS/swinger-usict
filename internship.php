@@ -7,10 +7,17 @@
     <meta property="og:url" content="http://euro-travel-example.com/index.htm">
 </head>
 <body>
-    <script>
+    <!-- <script>
         // window.load(()=>{
             window.href.location="https://sites.google.com/view/swingerusict/internship_1";
         // })
-    </script>
+    </script> -->
+    <?php 
+  
+// Redirect browser 
+header("Location: https://sites.google.com/view/swingerusict/internship_1"); 
+  
+exit; 
+?> 
 </body>
 </html>
